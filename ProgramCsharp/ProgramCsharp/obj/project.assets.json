@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\School\\MA\\Bewijzenmap\\leerjaar 2\\Periode 2\\Programming\\ProgramCsharp\\ProgramCsharp\\ProgramCsharp.csproj",
+      "projectUniqueName": "D:\\School\\MA\\Bewijzenmap\\leerjaar 2\\Periode 2\\Programming\\Program-L1P-\\ProgramCsharp\\ProgramCsharp\\ProgramCsharp.csproj",
       "projectName": "ProgramCsharp",
-      "projectPath": "D:\\School\\MA\\Bewijzenmap\\leerjaar 2\\Periode 2\\Programming\\ProgramCsharp\\ProgramCsharp\\ProgramCsharp.csproj",
+      "projectPath": "D:\\School\\MA\\Bewijzenmap\\leerjaar 2\\Periode 2\\Programming\\Program-L1P-\\ProgramCsharp\\ProgramCsharp\\ProgramCsharp.csproj",
       "packagesPath": "C:\\Users\\Minoo\\.nuget\\packages\\",
-      "outputPath": "D:\\School\\MA\\Bewijzenmap\\leerjaar 2\\Periode 2\\Programming\\ProgramCsharp\\ProgramCsharp\\obj\\",
+      "outputPath": "D:\\School\\MA\\Bewijzenmap\\leerjaar 2\\Periode 2\\Programming\\Program-L1P-\\ProgramCsharp\\ProgramCsharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -1,0 +1,13 @@
+D:\School\MA\Bewijzenmap\leerjaar 2\Periode 2\Programming\Program-L1P-\ProgramCsharp\ProgramCsharp\bin\Debug\netcoreapp3.1\ProgramCsharp.exe
+D:\School\MA\Bewijzenmap\leerjaar 2\Periode 2\Programming\Program-L1P-\ProgramCsharp\ProgramCsharp\bin\Debug\netcoreapp3.1\ProgramCsharp.deps.json
+D:\School\MA\Bewijzenmap\leerjaar 2\Periode 2\Programming\Program-L1P-\ProgramCsharp\ProgramCsharp\bin\Debug\netcoreapp3.1\ProgramCsharp.runtimeconfig.json
+D:\School\MA\Bewijzenmap\leerjaar 2\Periode 2\Programming\Program-L1P-\ProgramCsharp\ProgramCsharp\bin\Debug\netcoreapp3.1\ProgramCsharp.runtimeconfig.dev.json
+D:\School\MA\Bewijzenmap\leerjaar 2\Periode 2\Programming\Program-L1P-\ProgramCsharp\ProgramCsharp\bin\Debug\netcoreapp3.1\ProgramCsharp.dll
+D:\School\MA\Bewijzenmap\leerjaar 2\Periode 2\Programming\Program-L1P-\ProgramCsharp\ProgramCsharp\bin\Debug\netcoreapp3.1\ProgramCsharp.pdb
+D:\School\MA\Bewijzenmap\leerjaar 2\Periode 2\Programming\Program-L1P-\ProgramCsharp\ProgramCsharp\obj\Debug\netcoreapp3.1\ProgramCsharp.csproj.AssemblyReference.cache
+D:\School\MA\Bewijzenmap\leerjaar 2\Periode 2\Programming\Program-L1P-\ProgramCsharp\ProgramCsharp\obj\Debug\netcoreapp3.1\ProgramCsharp.AssemblyInfoInputs.cache
+D:\School\MA\Bewijzenmap\leerjaar 2\Periode 2\Programming\Program-L1P-\ProgramCsharp\ProgramCsharp\obj\Debug\netcoreapp3.1\ProgramCsharp.AssemblyInfo.cs
+D:\School\MA\Bewijzenmap\leerjaar 2\Periode 2\Programming\Program-L1P-\ProgramCsharp\ProgramCsharp\obj\Debug\netcoreapp3.1\ProgramCsharp.csproj.CoreCompileInputs.cache
+D:\School\MA\Bewijzenmap\leerjaar 2\Periode 2\Programming\Program-L1P-\ProgramCsharp\ProgramCsharp\obj\Debug\netcoreapp3.1\ProgramCsharp.dll
+D:\School\MA\Bewijzenmap\leerjaar 2\Periode 2\Programming\Program-L1P-\ProgramCsharp\ProgramCsharp\obj\Debug\netcoreapp3.1\ProgramCsharp.pdb
+D:\School\MA\Bewijzenmap\leerjaar 2\Periode 2\Programming\Program-L1P-\ProgramCsharp\ProgramCsharp\obj\Debug\netcoreapp3.1\ProgramCsharp.genruntimeconfig.cache
