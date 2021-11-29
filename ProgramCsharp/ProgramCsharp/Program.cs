@@ -5,19 +5,16 @@ namespace ProgramCsharp
 {
     class Program
     {
-
         static void Main(string[] args)
         {
             DataBase dataBase = new DataBase();
-            Character Beidou = new Character("Beidou");
-            Character Sayu = new Character("Sayu");
+            Character beidou = new CharElements("Beidou", "Electro");;
 
-            dataBase.AddCharacter(Beidou);
-            dataBase.AddCharacter(Sayu);
+            dataBase.AddCharacter(beidou);
 
             foreach (Character c in dataBase.GetCharacter())
 	        {
-                Console.WriteLine(c.GetName());
+                Console.WriteLine(c.nameNelement);
 	        }
         }
     }

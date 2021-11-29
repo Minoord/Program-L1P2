@@ -3,17 +3,15 @@ using System.Collections.Generic;
 
 namespace ProgramCsharp
 {
-    public class Character
+    public abstract class Character
     {
-        private string name;
+        public string nameNelement { get; private set; }
 
-        public Character(string aName)
+        public Character(string aName, string charElement)
         {
-            name = aName;
+            nameNelement = "Name: " + aName + ", Vision: " + charElement;
         }
-        public string GetName()
-        {
-            return name;
-        }
+
+        public abstract void UseChar();
     }
 }
