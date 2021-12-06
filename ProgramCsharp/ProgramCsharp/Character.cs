@@ -5,13 +5,14 @@ namespace ProgramCsharp
 {
     public abstract class Character
     {
-        public string nameNelement { get; private set; }
+        public string name{ get; private set; }
+        public string elements;
 
         public Character(string aName, string charElement)
         {
-            nameNelement = "Name: " + aName + ", Vision: " + charElement;
+            name = aName;
         }
 
-        public abstract void UseChar();
+        public abstract void WhichElement();
     }
 }
