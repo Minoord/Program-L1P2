@@ -13,25 +13,25 @@ namespace ProgramCsharp
             Console.WriteLine("Would you like to ADD or do you want to SEARCH for characters?");
             string _playerInput = Console.ReadLine();
 
-            if (_playerInput == "ADD" || _playerInput == "add" || _playerInput == "Add")
+            if (_playerInput.ToUpper() == "ADD")
             {
                 Console.WriteLine("What is it's name?");
                 string _newCharName = Console.ReadLine();
-                Console.WriteLine("What is it's vision (No caps)");
+                Console.WriteLine("What is it's vision?");
                 string _newCharVision = Console.ReadLine();
 
-                Character newChar = new CharElements(_newCharName, _newCharVision);
+                Character newChar = new CharElements(_newCharName, _newCharVision.ToLower());
                 dataBase.AddCharacter(newChar);
 
 
             }
-            else if (_playerInput == "Search" || _playerInput == "SEARCH" || _playerInput == "search")
+            else if (_playerInput.ToUpper() == "SEARCH")
             {
-                Console.WriteLine("From which vision do you wanna see the characters off?");
+                Console.WriteLine("From which vision do you wanna see the characters of?");
                 Console.WriteLine("Pyro \nHydro \nAnemo \nElectro \nDendro \nCryo \nGeo");
-                Console.WriteLine("Type which element you want down below.(Write the elements with no caps)");
+                Console.WriteLine("Type which element you want down below.");
                 _playerInput = Console.ReadLine();
-                dataBase.visionClass = _playerInput;
+                dataBase.visionClass = _playerInput.ToLower();
 
                 foreach (Character c in dataBase.GetCharacter())
                 {
