@@ -6,7 +6,7 @@ namespace ProgramCsharp
     public abstract class Character
     {
         public string name{ get; private set; }
-        public string elements;
+        public string element;
 
         public Character(string aName, string charElement)
         {

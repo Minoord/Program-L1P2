@@ -27,28 +27,35 @@ namespace ProgramCsharp
 
         public void AddCharacter(Character character)
         {
-            switch (character.elements)
+            switch (character.element)
             {
                 case "pyro":
                     _pyroChar.Add(character);
+                    Console.WriteLine(character.name + " has been added to Pyro");
                     break;
                 case "hydro":
                     _hydroChar.Add(character);
+                    Console.WriteLine(character.name + " has been added to Hydro");
                     break;
                 case "anemo":
                     _anemoChar.Add(character);
+                    Console.WriteLine(character.name + " has been added to Anemo");
                     break;
                 case "electro":
                     _electroChar.Add(character);
+                    Console.WriteLine(character.name + " has been added to Electro");
                     break;
                 case "dendro":
                     _dendroChar.Add(character);
+                    Console.WriteLine(character.name + " has been added to Dendro");
                     break;
                 case "cryo":
                     _cryoChar.Add(character);
+                    Console.WriteLine(character.name + " has been added to Cryo");
                     break;
                 case "geo":
                     _geoChar.Add(character);
+                    Console.WriteLine(character.name + " has been added to Geo");
                     break;
                 default :
                     Console.WriteLine("character element doesn't exist");
@@ -74,8 +81,7 @@ namespace ProgramCsharp
                     return _electroChar;
                     break;
                 case "dendro":
-                    Console.WriteLine("Dendro character dont exits yet");
-                    return null;
+                    return _dendroChar;
                     break;
                 case "cryo":
                     return _cryoChar;

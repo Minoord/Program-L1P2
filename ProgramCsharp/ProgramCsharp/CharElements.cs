@@ -8,7 +8,7 @@ namespace ProgramCsharp
 
         public CharElements(string charName, string charVision):base(charName, charVision)
         {
-            elements = charVision;
+            element = charVision;
         }
 
         public override void WhichElement()
